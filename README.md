@@ -1,5 +1,5 @@
 EGBE601/602 Signal Processing Final Project:
-Image processing with segmentation and classification of White Blood Cell image from Microscope
+White Blood Cell Types Classification Using Segmentation, Signal Processing, and Machine Learning
 
 - Firstly, We segment the image by using SAM model. The source code is in "Segmentation.ipynb"
 
